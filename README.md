@@ -70,5 +70,12 @@ You need:
 3. Copy the code from each file in `code/` into its matching cell.
 4. Press play.
 
+**Project files**
+- [bass.py](https://github.com/user-attachments/files/34251747/bass.py) - bass
+- [guitar.py](guitar.py) - country guitar pattern
+- [drums.py](drums.py) - drum arrangement
+
+##Project Status
+
 
 

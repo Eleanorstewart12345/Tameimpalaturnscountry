@@ -75,7 +75,30 @@ You need:
 - [guitar.py](guitar.py) - country guitar pattern
 - [drums.py](drums.py) - drum arrangement
 
-##Project Status
+## Project Status
+Project is *complete* as a prototype for assessment 2
 
+## Room for Improvement
+Room for improvement:
+- the bass line only runs for 9 beats, so it stops well before the rest of the track.
+- the guitar repeats one C major pattern, it doesn't reach the level of chord changes of the original song.
+- The song overall takes a different creative direction to Tame Impala's original track, the beats of the original track should have been considered more thoroughly
 
+## Acknowledgements
+- This project was inspired by Tame Impala. (2012). *Feels like we only go backwards*. On *Lonerism*. Modular Recordings.
+- Code was written in TunePad, Northwestern University. https://tunepad.com
+- Learning resources: Learn TunePad and the 52685 Canvas musical coding module.
+- All code in this repo is my own unless marked otherwise in the comments.
+- Jacinta Kieffer provided feedback on September 17th 2026 under these questions:
 
+**1. What do I like?**
+The snare build in the drums is the standout. Halving the note length each loop so it speeds up is a smart use of loops. The “boom-chick-a” section is where it really starts sounding country. Turning a psychedelic song into country is a fun idea in itself.
+
+**2. What’s it trying to do?**
+It seems to ask whether a song still feels like itself in a totally different genre. Right now the drums and guitar pattern carry the country feel. But there’s no melody yet, so it’s hard to hear the Tame Impala song in it.
+
+**3. Progress?**
+The drums are clearly the most finished part. The bass and guitar loops are much shorter than the drums, so they drop out early. It’s not clear what you’d do next. Your README’s to-do list helps, especially adding the chord progression as a list. Learn TunePad would cover most of that.
+
+## Contact
+Created by Eleanor Stewart, UTS. 
